@@ -1,0 +1,6 @@
+*************************
+Weather Stats for -{} || DELHI
+**********************
+Current temperature is :38.05deg C
+Weather desc :haze
+Weather Humidity :30%
